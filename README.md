@@ -26,7 +26,7 @@ The **Company Payroll System** is designed to calculate and manage payments for 
 ### Steps
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/company-payroll.git](https://github.com/yourusername/company-payroll.git)
+    git clone ![https://github.com/OmarTariq3/company-payroll.git](https://github.com/OmarTariq3/company-payroll.git)
     cd company-payroll
     ```
 
